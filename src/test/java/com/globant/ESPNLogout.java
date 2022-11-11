@@ -16,6 +16,10 @@ public class ESPNLogout {
 
     @Test(priority = 2)
     public void Logout(){
+        log.info("Click on 'Log in'");
+        log.info("Write your username or email address");
+        log.info("Write your password");
+        log.info("Click on 'Log in'");
         log.info("Put your cursor on the profile icon");
         log.info("Click on 'Log out'");
         log.info("You are already logged out");
