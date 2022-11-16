@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="228d1da8-27a8-458f-8642-f9b0abdbdcd2" name="Changes" comment="" />
+    <list default="true" id="228d1da8-27a8-458f-8642-f9b0abdbdcd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/globant/configuration/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/globant/configuration/WebOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/globant/reporting/Reporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/tests/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/tests/ESPNDesactivateUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/tests/ESPNLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/tests/ESPNLogout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/utils/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.iws" beforeDir="false" afterPath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/globant/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/globant/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/globant/ESPNDesactivateUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/globant/ESPNLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/globant/ESPNLogout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/suites.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,6 +226,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="PerforceConfiguration">
     <option name="PORT" value="magic:1666" />
     <option name="USER" value="" />
@@ -244,6 +279,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carlos.ferro\Desktop\CarlosFerro_TestCase_Design_TestNG\src\test\java" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration selected="false" default="true" type="Applet" factoryName="Applet">
       <module name="" />
@@ -272,6 +312,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ESPNLogin.Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CarlosFerro_TestCase_Design_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.globant.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.globant.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.globant.tests.ESPNLogin" />
+      <option name="METHOD_NAME" value="Login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ESPNLogin.Login" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StarteamConfiguration">
