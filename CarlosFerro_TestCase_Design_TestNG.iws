@@ -5,30 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228d1da8-27a8-458f-8642-f9b0abdbdcd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/globant/configuration/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/globant/configuration/WebOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/globant/reporting/Reporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/tests/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/tests/ESPNDesactivateUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/tests/ESPNLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/tests/ESPNLogout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/utils/Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/suite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.iws" beforeDir="false" afterPath="$PROJECT_DIR$/CarlosFerro_TestCase_Design_TestNG.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/globant/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/globant/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/globant/ESPNDesactivateUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/globant/ESPNLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/globant/ESPNLogout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/resources/suites.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/globant/configuration/WebOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/globant/configuration/WebOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/suite.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +256,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlos.ferro/Desktop/automationMobile&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -473,5 +454,16 @@
   </component>
   <component name="WebViewSettings">
     <webview flattenPackages="false" showMembers="false" autoscrollToSource="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/globant/configuration/WebOperations.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

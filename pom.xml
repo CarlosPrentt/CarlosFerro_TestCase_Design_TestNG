@@ -21,6 +21,8 @@
     <selenium.version>4.6.0</selenium.version>
     <slf4j.version>2.0.3</slf4j.version>
     <hamcrest.version>2.2</hamcrest.version>
+    <cucumber.version>7.9.0</cucumber.version>
+    <cucumber-testng>7.9.0</cucumber-testng>
   </properties>
 
   <dependencies>
@@ -62,6 +64,17 @@
       <artifactId>hamcrest</artifactId>
       <version>${hamcrest.version}</version>
       <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-java</artifactId>
+      <version>${cucumber.version}</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-testng</artifactId>
+      <version>${cucumber-testng}</version>
     </dependency>
   </dependencies>
 

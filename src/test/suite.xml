@@ -11,8 +11,6 @@
     <test name="Login">
         <classes>
             <class name="com.globant.tests.ESPNLogin"></class>
-            <class name="com.globant.tests.ESPNLogout"></class>
-            <class name="com.globant.tests.ESPNDesactivateUser"></class>
         </classes>
     </test>
 </suite>
